@@ -9,13 +9,21 @@ This project is a full-stack web application for managing categories, products, 
 ## Installation and Setup
 
 Clone the repository.
+
 Navigate to the project directory.
+
 Install dependencies using npm install in both the client and server directories.
+
 Set up environment variables:
+
 Create a .env file in the server directory.
+
 Define the following variables in the .env file:
+
 SECRET_KEY: Secret key for JWT token generation.
+
 DATABASE_URL: MongoDB connection URL.
+
 Ensure MongoDB is running.
 
 ## Available Scripts
